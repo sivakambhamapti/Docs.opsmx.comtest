@@ -1,0 +1,48 @@
+﻿ISD Quick start guide for Developers
+
+
+
+
+
+
+	Task
+	Document
+	1-min Video
+	1
+	Create Application
+	here
+	here
+	2
+	Create pipeline
+	here
+
+
+	here
+	3
+	Add a stage
+	here
+	here
+	4
+	Save a pipeline, execute
+	here
+	here
+	5
+	Deploying Kubernetes Manifest
+	Here
+	Here
+	6
+	Deploying Kubernetes Manifest from git
+	here
+	here
+	7
+	Helm based Manifest
+	Here
+	here
+	8
+	Cluster view
+	Here
+	Here 
+	9
+	Sample App Overview
+	Here
+	Here
