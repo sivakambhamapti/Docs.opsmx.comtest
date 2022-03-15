@@ -1,6 +1,4 @@
-## Welcome to the OpsMx Documentation page 
-
-##OpsMx Intelligent Software Delivery Platform
+## Welcome to the OpsMx's ISD Documentation page 
 
 OpsMx’s ISD is designed to help release software faster, with fewer errors and with minimal human intervention to create a better end customer experience and free up time and Manpower for businesses to scale and Innovate. ISD allows you to:
 
