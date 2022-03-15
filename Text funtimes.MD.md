@@ -1,0 +1,4 @@
+An application is the service or series of services that you are going to deploy to fulfill a definite purpose or series of purposes. For example, a banking application allows you to perform multiple different actions like checking your account balance, transferring funds between accounts, and so on.
+The difference between an application and a service is subtle as Spinnaker does not natively distinguish between the two.
+However, to clarify, an application can consist of many different services and represents the overall product you are trying to deploy, while a service is more so the individual features of that product you are trying to deploy.
+This distinction allows you to better manage applications.
